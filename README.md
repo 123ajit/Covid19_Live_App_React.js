@@ -1,4 +1,6 @@
 # Covid19_Live_App_React.js
+![image](https://user-images.githubusercontent.com/14126987/134777959-f678204f-895a-4f69-a7ec-d2967b752a9d.png)
+![image](https://user-images.githubusercontent.com/14126987/134778000-0058de40-59a5-40e9-8def-d30fd222e497.png)
 
 # Available Scripts
 
